@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**jlara65/jlara65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+    <a href="https://www.linkedin.com/in/mr-joseph-lara/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    </a>
+
+</div>
+    <img src="https://komarev.com/ghpvc/?username=jlara65&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+## About me
+
+-Full-stack developer
+
+-
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlara65&theme=transparent)](https://github.com/jlara65)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlara65)](https://github.com/jlara65)
